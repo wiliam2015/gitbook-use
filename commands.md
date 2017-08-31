@@ -23,6 +23,15 @@ gitbook --help
 gitbook --version
 ```
 
+**创建书籍**
+
+```
+gitbook init <folder> 创建项目,生成：
+
+README.md
+SUMMARY.md
+```
+
 **生成静态网页**
 
 ```bash
