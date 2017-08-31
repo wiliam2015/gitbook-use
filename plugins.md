@@ -4,7 +4,7 @@
 <!--/email_off-->
 
 - [Disqus - Disqus 评论](#disqus)
-- [Duoshuo - 多说](#duoshuo)--服务已经停了，不推荐使用
+- [Duoshuo - 多说](#duoshuo)--服务已经停了，不能使用
 - [Search Plus - 支持中文搜索](#search-plus)
 - [Prsim - 使用 Prism.js 高亮代码](#prsim)
 - [Advanced Emoji - 支持 emoji 表情](#advanced-emoji)
@@ -48,7 +48,7 @@
 ```
 
 ## Duoshuo
-添加多说
+添加多说---服务停了，不能使用
 
 [插件地址](https://plugins.gitbook.com/plugin/duoshuo)
 
