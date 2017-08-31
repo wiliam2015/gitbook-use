@@ -58,10 +58,10 @@
             ]
         },
         "github": {
-            "url": "https://github.com/zhangjikai/gitbook-use"
+            "url": "https://github.com/wiliam2015/gitbook-use"
         },
         "github-buttons": {
-            "repo": "zhangjikai/gitbook-use",
+            "repo": "wiliam2015/gitbook-use",
             "types": [
                 "star"
             ],
@@ -74,43 +74,31 @@
         },
         "sharing": {
             "weibo": true,
-            "facebook": true,
-            "twitter": true,
+            "facebook": false,
+            "twitter": false,
             "google": false,
             "instapaper": false,
             "vk": false,
             "all": [
-                
                 "weibo"
             ]
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © zhangjikai.com 2017",
+            "copyright": "Copyright © wiliam.me 2017",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "3-ba": {
             "token": "ff100361cdce95dd4c8fb96b4009f7bc"
         },
-        "donate": {
-            "wechat": "https://zhangjikai.com/resource/weixin.png",
-            "alipay": "https://zhangjikai.com/resource/alipay.png",
-            "title": "",
-            "button": "赏",
-            "alipayText": "支付宝打赏",
-            "wechatText": "微信打赏"
-        },
         "simple-page-toc": {
             "maxDepth": 3,
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/zhangjikai/gitbook-use/edit/master",
+            "base": "https://github.com/wiliam2015/gitbook-use/edit/master",
             "label": "Edit This Page"
-        },
-        "sitemap-general": {
-            "prefix": "http://gitbook.zhangjikai.com"
-        },
+        },        
         "anchor-navigation-ex": {
             "isRewritePageTitle": false,
             "tocLevel1Icon": "fa fa-hand-o-right",
