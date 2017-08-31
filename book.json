@@ -11,7 +11,7 @@
     },
     "links": {
         "sidebar": {
-            "Home": "http://www.zhangjikai.com"
+            "Home": "http://wiliam.me"
         }
     },
     "plugins": [
@@ -80,11 +80,8 @@
             "instapaper": false,
             "vk": false,
             "all": [
-                "facebook",
-                "google",
-                "twitter",
-                "weibo",
-                "instapaper"
+                
+                "weibo"
             ]
         },
         "tbfed-pagefooter": {
