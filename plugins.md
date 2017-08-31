@@ -14,8 +14,7 @@
 - [Emphasize - 为文字加上底色](#emphasize)
 - [KaTex - 支持数学公式](#katex)
 - [Include Codeblock - 用代码块显示包含文件的内容](#include-codeblock)
-- [Splitter - 使侧边栏的宽度可以自由调节](#splitter)
-- [Mermaid - 支持渲染 Mermaid 图表](#mermaid)
+- [Splitter - 使Mermaid侧边栏的宽度可以自由调节](#splitter)
 - [Sharing - 分享当前页面](#sharing)
 - [Tbfed-pagefooter - 为页面添加页脚](#tbfed-pagefooter)
 - [Expandable-chapters-small - 使左侧的章节目录可以折叠](#expandable-chapters-small)
@@ -270,22 +269,7 @@ $$
     "splitter"
 ]
 ```
-## Mermaid
-支持渲染[Mermaid](https://github.com/knsv/mermaid)图表  
-[插件地址](https://plugins.gitbook.com/plugin/mermaid)
-```json
-"plugins": [
-    "mermaid"
-]
-```
-使用示例:
-{% mermaid %}
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-{% endmermaid %}
+
 
 ## Sharing
 分享当前页面, gitbook的默认插件, 使用下面方式来禁用
