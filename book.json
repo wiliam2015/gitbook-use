@@ -11,7 +11,7 @@
     },
     "links": {
         "sidebar": {
-            "Home": "http://wiliam.me"
+            "我的主页": "http://wiliam.me"
         }
     },
     "plugins": [
@@ -95,7 +95,7 @@
         },
         "edit-link": {
             "base": "https://github.com/wiliam2015/gitbook-use/edit/master",
-            "label": "Edit This Page"
+            "label": "编辑本页"
         },        
         "anchor-navigation-ex": {
             "isRewritePageTitle": false,
