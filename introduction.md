@@ -1,5 +1,6 @@
 # 前言
-主要记录GitBook的安装配置以及一些插件信息, 下面是GitBook的一些资源
+
+主要记录GitBook的安装配置以及一些插件信息, 下面是GitBook的一些资源,增加了一些自认为比较有用的信息。
 
 * [GitBook主页](https://www.gitbook.com/)
 * [Github地址](https://github.com/GitbookIO/)
@@ -8,4 +9,8 @@
 * [GitBook Documentation](http://help.gitbook.com/)
 
 ---
+
 > 如若转载请标明出处.
+
+
+
