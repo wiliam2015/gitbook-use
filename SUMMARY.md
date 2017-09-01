@@ -9,6 +9,7 @@
 * [菜单与页面](menus.md)
 * [配置](settings.md)
 * [多语言](mutilanguage.md)
+* [生成电子书和PDF](ebookandpdf.md)
 
 ## 扩展
 
