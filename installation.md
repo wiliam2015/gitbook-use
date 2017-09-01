@@ -13,6 +13,17 @@ npm install gitbook-cli -g
 ```
 其中`gitbook-cli`是gitbook的一个命令行工具, 通过它可以在电脑上安装和管理gitbook的多个版本.
 
+## 创建一本书
+GitBook通过以下命令在当前目录创建一本书：
+
+```nodejs
+gitbook init
+```
+如果你想用现有的目录来创建一本书，你可以通过运行 `gitbook init ./directory`来实现
+
+
+
+
 ## 编辑书籍
 gitbook 官方已经提供了一个本地的编辑器-[Windows版本](https://www.gitbook.com/editor/windows),[Mac版本](https://www.gitbook.com/editor/osx),[Linux版本](https://www.gitbook.com/editor/linux), 使用它可以方便的编写书籍(不需要手动的写SUMMARY.md), 并且支持windows、mac、linux 三种平台, 所以强烈建议使用编辑器编写书籍.
 
