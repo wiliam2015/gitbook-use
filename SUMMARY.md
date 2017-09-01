@@ -8,6 +8,7 @@
 * [目录结构](structure.md)
 * [菜单与页面](menus.md)
 * [配置](settings.md)
+* [多语言](mutilanguage.md)
 
 ## 扩展
 
