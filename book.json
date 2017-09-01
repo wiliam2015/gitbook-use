@@ -1,7 +1,7 @@
 {
     "title": "GitBook 使用教程",
     "description": "记录 GitBook 的配置和一些插件的使用",
-    "author": "zhangjikai",
+    "author": "wiliam",
     "output.name": "site",
     "language": "zh-hans",
     "gitbook": "3.2.2",
@@ -11,7 +11,7 @@
     },
     "links": {
         "sidebar": {
-            "我的主页": "http://wiliam.me"
+            "我的主页": "http://wiliam.top"
         }
     },
     "plugins": [
@@ -40,8 +40,7 @@
         "local-video@^1.0.1",
         "anchor-navigation-ex@0.1.8",
         "favicon@^0.0.2",
-        "todo@^0.1.3",
-        "3-ba@^0.9.0"
+        "todo@^0.1.3"
     ],
     "pluginsConfig": {
         "theme-default": {
@@ -85,9 +84,6 @@
             "copyright": "Copyright © wiliam.me 2017",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
-        },
-        "3-ba": {
-            "token": "ff100361cdce95dd4c8fb96b4009f7bc"
         },
         "simple-page-toc": {
             "maxDepth": 3,
