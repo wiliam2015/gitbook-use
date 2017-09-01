@@ -6,6 +6,7 @@
 * [安装](installation.md)
 * [命令](commands.md)
 * [目录结构](structure.md)
+* [菜单与页面](menus.md)
 * [配置](settings.md)
 
 ## 扩展
