@@ -10,7 +10,7 @@
   ```
 * Clone 代码到本地并运行
   ```bash
-  git clone git@github.com:zhangjikai/gitbook-use.git
+  git clone git@github.com:wiliam2015/gitbook-use.git
   cd gitbook-use
   gitbook install
   gitbook serve
@@ -25,7 +25,7 @@
 * [配置](settings.md)
 * [插件](plugins.md)
 * [主题](themes.md)
-* [bookjson](bookjson.md)
+* 书籍配置\(book.json\)
 
 ## GitBook 资源
 
