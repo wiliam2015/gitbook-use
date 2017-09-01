@@ -1,5 +1,5 @@
 # 菜单与页面
----
+
 
 ## 菜单
 GitBook使用一个`SUMMARY.md`文件来定义文档的菜单。
@@ -60,6 +60,7 @@ Markdown will dictates _most_ of your **book's structure**
 部分只是章节组，没有对应的页面，但根据不同主题，它会显示在导航中。
 
 ---
+
 
 # 页面
 
