@@ -10,7 +10,6 @@ GitBook使用一个`SUMMARY.md`文件来定义文档的菜单。
 
 ```
 # 概述
-
 ### 第一部分
 
 * [第一部分](part1/README.md)
