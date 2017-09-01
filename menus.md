@@ -42,16 +42,6 @@ GitBook使用一个`SUMMARY.md`文件来定义文档的菜单。
 ## 部分
 
 内容表可以分为由标题或水平线分隔的部分：
-```
-# 章节标题
-
-这里是一些简单的介绍。
-
-## 第一节
-
-Markdown will dictates _most_ of your **book's structure**
-
-## 第二节
 
 ```
 # 章节标题
@@ -64,6 +54,7 @@ Markdown will dictates _most_ of your **book's structure**
 
 ## 第二节
 ...
+
 ```
 
 部分只是章节组，没有对应的页面，但根据不同主题，它会显示在导航中。
@@ -73,12 +64,13 @@ Markdown will dictates _most_ of your **book's structure**
 # 页面
 
 ## Markdown语法
+
 GitBook默认使用Markdown语法编写页面。也可以选择AsciiDoc语法。
 
 **章节文件的示例**
 
 ```
-＃本章标题
+＃ 本章标题
 
 这里是介绍。
 
