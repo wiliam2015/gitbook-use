@@ -5,8 +5,8 @@
 * [GitBook主页](https://www.gitbook.com/)
 * [Github地址](https://github.com/GitbookIO/)
 * [GitBook编辑器](https://www.gitbook.com/editor/osx)
-* [GitBook Toolchain Documentation](http://toolchain.gitbook.com/)
-* [GitBook Documentation](http://help.gitbook.com/)
+* [GitBook官方文档](http://toolchain.gitbook.com) --- 英文好的可以看看啊
+* [GitBook官方帮助文档](http://help.gitbook.com) --- 英文好的可以看看啊
 
 ---
 
