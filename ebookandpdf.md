@@ -34,33 +34,12 @@ sudo ln -s /usr/bin/nodejs /usr/bin/node
 
 下载[Caliber应用程序](https://calibre-ebook.com/download)应用程序。将`calibre.app`移动到您的应用程序文件夹后，创建一个指向`ebook-convert`工具的软件链接：
 ```
-sudo ln -s /Applications/calibre.app/Contents/MacOS/ebook-convert /usr/bin
+sudo ln -s /Applications/calibre.app/Contents/MacOS/ebook-convert /usr/local/bin
 ```
 
 这样就可以在任何目录下执行目录执行ebook-convert命令。
 
-如果出现`Operation not permitted`异常，说明系统权限限制，需要配置环境变量的方式解决
 
-```
-sudo ln -s /Applications/calibre.app/Contents/MacOS/ebook-convert /usr/bin
-ln: /usr/bin/ebook-convert: Operation not permitted
-```
-
-环境变量配置
-
-先启动ebook-convert完成第一次启动配置，然后关闭。接着在命令行窗口修改环境配置文件，加入`EBOOK_PATH`（ebook-convert命令的所在目录）
-
-```
-vim ~/.bash_profile 
-
-export EBOOK_PATH=/Applications/calibre.app/Contents/MacOS
-export PATH=$PATH:$EBOOK_PATH
-```
-然后刷新一下刚刚的配置:
-
-```
-source ~/.bash_profile
-```
 
 最后测试一下`ebook-convert`指令是否能正常被调用：
 
